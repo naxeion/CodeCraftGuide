@@ -1,6 +1,6 @@
-# A Guide to Programming Languages and Compilers
-
 <div align=center>
+  
+# A Guide to Programming Languages and Compilers
 
 [![TWITTER/X](https://img.shields.io/badge/@naxeion-e05d44?style=for-the-badge&logo=x&color=21ce81&logoColor=D9E0EE&labelColor=181b22)](https://x.com/naxeion)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/naxeion/codeCraftGuide?style=for-the-badge&logo=git&color=21ce81&logoColor=D9E0EE&labelColor=181b22)
