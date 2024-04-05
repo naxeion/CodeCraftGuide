@@ -14,7 +14,7 @@ The project began in 2000 at the University of Illinois by Chris Lattner and Vik
 
 LLVM is not the only way to build programming languages, but it is one of the popular and powerful tools that can be utilized in this field, there are other methods to building programming languages like Interpreter Engines, Parser Generators, Transpilers, and tools like JVM, CLR, Yacc.
 
-[Swift](#swift) | [Rust](#rust) | [Go](#golang) | [Vala](#vala) | [Lua](#lua)
+[Swift](#swift "C++") | [Rust](#rust "Rust") | [Go](#golang "C") | [Vala](#vala "C") | [Lua](#lua "C")
 
 ## Swift
 
