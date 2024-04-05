@@ -1,4 +1,4 @@
-# A Comprehensive Guide to Programming Languages and Their Compilers
+# A Guide to Programming Languages and Compilers
 
 <div align=center>
 
