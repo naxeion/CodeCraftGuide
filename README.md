@@ -2,6 +2,7 @@
 
 <div align=center>
 
+[![TWITTER/X](https://img.shields.io/badge/@naxeion-e05d44?style=for-the-badge&logo=x&color=E42326&logoColor=D9E0EE&labelColor=181b22)](https://x.com/naxeion)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/naxeion/codeCraftGuide?style=for-the-badge&logo=git&color=E42326&logoColor=D9E0EE&labelColor=181b22)
 [![LAST COMMIT](https://img.shields.io/github/last-commit/naxeion/CodeCraftGuide?style=for-the-badge&logo=github&color=E42326&logoColor=D9E0EE&labelColor=181b22)](https://github.com/naxeion/CodeCraftGuide/pulse/monthly)
 
