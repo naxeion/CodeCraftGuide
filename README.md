@@ -2,9 +2,8 @@
 
 <div align=center>
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/naxeion/CodeCraftGuide?style=for-the-badge&logo=git&color=E42326&logoColor=D9E0EE&labelColor=181b22)
-[![LAST COMMIT](https://img.shields.io/github/last-commit/naxeion/CodeCraftGuide?style=for-the-badge&logo=github&color=E42326&logoColor=D9E0EE&labelColor=181b22)](https://github.com/naxeion/Novaxis/pulse/monthly)
-[![RELEASE](https://img.shields.io/github/v/release/naxeion/CodeCraftGuide?style=for-the-badge&logo=gitbook&color=E42326&logoColor=D9E0EE&labelColor=181b22)](https://github.com/naxeion/Novaxis/releases/latest)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/naxeion/codeCraftGuide?style=for-the-badge&logo=git&color=E42326&logoColor=D9E0EE&labelColor=181b22)
+[![LAST COMMIT](https://img.shields.io/github/last-commit/naxeion/CodeCraftGuide?style=for-the-badge&logo=github&color=E42326&logoColor=D9E0EE&labelColor=181b22)](https://github.com/naxeion/CodeCraftGuide/pulse/monthly)
 
 </div>
 
