@@ -4,6 +4,7 @@
 
 [![TWITTER/X](https://img.shields.io/badge/@naxeion-e05d44?style=for-the-badge&logo=x&color=21ce81&logoColor=D9E0EE&labelColor=181b22)](https://x.com/naxeion)
 [![LAST COMMIT](https://img.shields.io/github/last-commit/naxeion/CodeCraftGuide?style=for-the-badge&logo=github&color=21ce81&logoColor=D9E0EE&labelColor=181b22)](https://github.com/naxeion/CodeCraftGuide/pulse/monthly)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-21ce81?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/naxeion/a-comprehensive-guide-to-programming-languages-and-their-compilers-1k6j)
 
 </div>
 
